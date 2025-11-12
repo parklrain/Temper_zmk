@@ -17,7 +17,7 @@
 &sk { quick-release; };
 
 &lt {
-    flavor = "hold-preferred";
+    flavor = "tap-preferred";
     quick-tap-ms = <180>;
 };
 
