@@ -21,6 +21,11 @@
     quick-tap-ms = <180>;
 };
 
+&mt {
+    quick-tap-ms = <150>;
+    flavor = "tap-preferred";
+};
+
 / {
     behaviors {
         hm: hm {
